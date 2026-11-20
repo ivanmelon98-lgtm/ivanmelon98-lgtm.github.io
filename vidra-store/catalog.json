@@ -1,5 +1,5 @@
 {
- "version": 2,
+ "version": 3,
  "featured": "vidracraft",
  "apps": [
   {
@@ -127,14 +127,14 @@
    "tagline": "Все проекты Видры в одном месте",
    "platform": "android",
    "category": "Инструменты",
-   "version": "1.1",
-   "versionCode": 2,
+   "version": "1.1.2",
+   "versionCode": 4,
    "package": "ai.vidra.store",
-   "size": "740 КБ",
+   "size": "745 КБ",
    "status": "Релиз",
    "icon": "store",
    "accent": "#FF7A1A",
-   "url": "https://ivanmelon98-lgtm.github.io/vidra-store/VidraStore-1.1.apk",
+   "url": "https://ivanmelon98-lgtm.github.io/vidra-store/VidraStore-1.1.2.apk",
    "desc": "Этот магазин. Ставит и обновляет приложения Видры, даёт ссылки на программы для ПК. В настройках есть бегающие выдры.",
    "news": "Приветственный экран, вход и регистрация через аккаунт VidraCraft, Видра-коины и скины для бегающих выдр, уведомления об обновлениях, скриншоты, бета-канал и админ-панель."
   }
