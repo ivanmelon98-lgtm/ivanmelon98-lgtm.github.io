@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "featured": "vidracraft",
   "apps": [
     {
@@ -96,6 +96,24 @@
         "https://ivanmelon98-lgtm.github.io/vidra-store/vidracode/02-conversation.webp",
         "https://ivanmelon98-lgtm.github.io/vidra-store/vidracode/03-plans.webp"
       ]
+    },
+    {
+      "id": "vidrastudio",
+      "name": "Vidra Studio",
+      "tagline": "Создавай Android-приложения прямо на телефоне",
+      "platform": "android",
+      "category": "Инструменты",
+      "version": "0.2",
+      "versionCode": 2,
+      "package": "ai.vidra.studio",
+      "size": "584 КБ",
+      "status": "Бета",
+      "icon": "store",
+      "accent": "#FF7A1A",
+      "url": "https://ivanmelon98-lgtm.github.io/vidra-store/VidraStudio-0.2.apk",
+      "desc": "Конструктор приложений в стиле Material 3: собирай экраны из 13 виджетов, задавай логику блоками, запускай прямо в студии и экспортируй настоящий APK с подписью на телефоне. Внутри примеры «Счётчик» и «Факты о выдрах».",
+      "news": "0.2: весь интерфейс на русском.",
+      "iconUrl": "https://ivanmelon98-lgtm.github.io/vidra-store/vidrastudio/icon.png"
     },
     {
       "id": "vidraos",
