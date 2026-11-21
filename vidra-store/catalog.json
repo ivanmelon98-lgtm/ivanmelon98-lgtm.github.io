@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "featured": "vidracraft",
   "apps": [
     {
@@ -115,23 +115,23 @@
     {
       "id": "vidrabot",
       "name": "Vidra AI",
-      "tagline": "Бот для видео и картинок",
+      "tagline": "Бот для видео и картинок в Discord",
       "platform": "bot",
       "category": "ИИ",
-      "version": "0.0",
+      "version": "Discord",
       "size": "Бот",
-      "status": "Скоро",
+      "status": "Онлайн",
       "icon": "vidrabot",
       "accent": "#7C4DFF",
-      "url": "https://t.me/vidra_ai_bot",
-      "desc": "Бот Видры: генерирует видео и картинки по описанию. Сейчас переезжает в Discord.",
-      "news": "Переезд в Discord скоро.",
+      "url": "https://discord.com/users/1547631524021669982",
+      "desc": "Бот Видры теперь живёт в Discord: генерирует видео и картинки по описанию с живым прогрессом генерации. Работает на приватном сервере Vidra Private, доступ открывает автор (Discord: ac3205).",
+      "news": "Переехали в Discord! Новый хостинг, живой статус «Генерация».",
       "package": "",
       "iconUrl": "",
       "site": "",
       "beta": false,
-      "blocked": true,
-      "blockReason": "Переезд в Discord",
+      "blocked": false,
+      "blockReason": "",
       "shots": []
     },
     {
