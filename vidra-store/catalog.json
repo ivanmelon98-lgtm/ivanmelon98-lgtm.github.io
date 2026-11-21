@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "featured": "vidracraft",
   "apps": [
     {
@@ -75,6 +75,27 @@
       "url": "https://ivanmelon98-lgtm.github.io/vidra-store/VidraGram-1.4.1-alpha.apk",
       "desc": "Клиент Telegram на базе официального кода с фирменным стилем Видры. Альфа: возможны баги.",
       "news": "1.4.1 alpha: исправления и новые иконки."
+    },
+    {
+      "id": "vidracode",
+      "name": "VidraCode",
+      "tagline": "ИИ-агент для кода с выдрой",
+      "platform": "windows",
+      "category": "Инструменты",
+      "version": "0.1.0",
+      "size": "75 МБ",
+      "status": "Бета",
+      "icon": "vidracode",
+      "iconUrl": "https://ivanmelon98-lgtm.github.io/vidra-store/vidracode/icon.png",
+      "accent": "#FF7A1A",
+      "url": "https://ivanmelon98-lgtm.github.io/vidra-store/VidraCode-Setup-0.1.0-x64.exe",
+      "desc": "ИИ-агент для программирования под Windows 10/11 в стиле Видры. Читает и правит файлы проекта, запускает команды, показывает изменения диффами и спрашивает разрешение. Есть /undo, /init и выдра-помощник.\n\nРаботает с вашим API-ключом. Установка без прав администратора; Windows может показать предупреждение SmartScreen («Подробнее» → «Выполнить в любом случае»).",
+      "news": "0.1.0: первая бета.",
+      "shots": [
+        "https://ivanmelon98-lgtm.github.io/vidra-store/vidracode/01-welcome.webp",
+        "https://ivanmelon98-lgtm.github.io/vidra-store/vidracode/02-conversation.webp",
+        "https://ivanmelon98-lgtm.github.io/vidra-store/vidracode/03-plans.webp"
+      ]
     },
     {
       "id": "vidraos",
