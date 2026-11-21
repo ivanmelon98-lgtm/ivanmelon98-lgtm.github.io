@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 10,
   "featured": "vidracraft",
   "apps": [
     {
@@ -118,14 +118,21 @@
       "tagline": "Бот для видео и картинок",
       "platform": "bot",
       "category": "ИИ",
-      "version": "Онлайн",
+      "version": "0.0",
       "size": "Бот",
-      "status": "Переезд в Discord",
+      "status": "Скоро",
       "icon": "vidrabot",
       "accent": "#7C4DFF",
       "url": "https://t.me/vidra_ai_bot",
-      "desc": "Бот Видры: генерирует видео и картинки по описанию. Сейчас переезжает в Discord, а в Telegram работает @vidra_ai_bot.",
-      "news": "Переезд в Discord."
+      "desc": "Бот Видры: генерирует видео и картинки по описанию. Сейчас переезжает в Discord.",
+      "news": "Переезд в Discord скоро.",
+      "package": "",
+      "iconUrl": "",
+      "site": "",
+      "beta": false,
+      "blocked": true,
+      "blockReason": "Переезд в Discord",
+      "shots": []
     },
     {
       "id": "claudra",
@@ -159,5 +166,11 @@
       "desc": "Этот магазин. Ставит и обновляет приложения Видры, даёт ссылки на программы для ПК. В настройках есть бегающие выдры.",
       "news": "Автообновления приложений, рассылки от Видры, мгновенная публикация в админке."
     }
-  ]
+  ],
+  "push": {
+    "id": 1795256427057,
+    "title": "СКОРО ПОЯВИТЬСЯ VidraCode",
+    "text": "Vidra code",
+    "url": ""
+  }
 }
