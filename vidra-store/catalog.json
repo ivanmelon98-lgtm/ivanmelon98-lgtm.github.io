@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "featured": "vidracraft",
   "apps": [
     {
@@ -31,16 +31,16 @@
       "tagline": "ИИ-видео прямо с телефона",
       "platform": "android",
       "category": "ИИ",
-      "version": "1.6",
-      "versionCode": 11,
+      "version": "1.7",
+      "versionCode": 12,
       "package": "ai.vidra.app",
-      "size": "93 КБ",
+      "size": "97 КБ",
       "status": "Бета",
       "icon": "vidra",
       "accent": "#FF7A1A",
-      "url": "https://ivanmelon98-lgtm.github.io/vidra-store/Vidra-1.6.apk",
+      "url": "https://ivanmelon98-lgtm.github.io/vidra-store/Vidra-1.7.apk",
       "desc": "Приложение Vidra: создаёшь видео по описанию, смотришь галерею и делишься роликами. Внизу живёт выдра в шарфе, а в профиле спрятана пасхалка.",
-      "news": "1.6: стабильнее генерация в фоне, новые анимации."
+      "news": "Поддержка паузы из Vidra Store."
     },
     {
       "id": "gemra",
@@ -127,16 +127,16 @@
       "tagline": "Все проекты Видры в одном месте",
       "platform": "android",
       "category": "Инструменты",
-      "version": "1.1.4",
-      "versionCode": 6,
+      "version": "1.1.5",
+      "versionCode": 7,
       "package": "ai.vidra.store",
       "size": "745 КБ",
       "status": "Релиз",
       "icon": "store",
       "accent": "#FF7A1A",
-      "url": "https://ivanmelon98-lgtm.github.io/vidra-store/VidraStore-1.1.4.apk",
+      "url": "https://ivanmelon98-lgtm.github.io/vidra-store/VidraStore-1.1.5.apk",
       "desc": "Этот магазин. Ставит и обновляет приложения Видры, даёт ссылки на программы для ПК. В настройках есть бегающие выдры.",
-      "news": "Админ может заблокировать (поставить на паузу) любое приложение или бота в каталоге, а также весь магазин."
+      "news": "Изменения в админке публикуются сразу. Блокировка приложений и ботов."
     }
   ]
 }
