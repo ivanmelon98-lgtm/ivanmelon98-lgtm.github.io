@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "featured": "vidracraft",
   "apps": [
     {
@@ -168,9 +168,9 @@
     }
   ],
   "push": {
-    "id": 1795256427057,
-    "title": "СКОРО ПОЯВИТЬСЯ VidraCode",
-    "text": "Vidra code",
+    "id": 1795266370608,
+    "title": "VidraCode вышел!",
+    "text": "ИИ-агент для кода с выдрой уже в Vidra Store. Windows 10/11, бета 0.1.0.",
     "url": ""
   }
 }
